@@ -46,15 +46,23 @@ Cabe a destacar que mis otras cuentas de github no son todas para mantener const
 ## 📊 GitHub Analytics
 
 <a href="https://github.com/Luisorozco42/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luisorozco42&theme=nightowl" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luisorozco42&theme=nightowl&hide_border=true" />
 </a>
 <a href="https://github.com/Luisorozco42/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisorozco42&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisorozco42&layout=compact&langs_count=8&card_width=320&theme=nightowl&hide_border=true" />
 </a>
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Luisorozco42&theme=nightowl)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Luisorozco42&theme=nightowl&hide_border=true"
+  />
+</a>
+<a href="https://github.com/Luisorozco42/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Luisorozco42&theme=nightowl&hide_border=true"
+  />
+</a>
+
 
 </div>
 
