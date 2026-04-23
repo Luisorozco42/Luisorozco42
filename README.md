@@ -45,10 +45,16 @@ Cabe a destacar que mis otras cuentas de github no son todas para mantener const
 
 ## 📊 GitHub Analytics
 
-[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisorozco42&theme=nightowl&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Luisorozco42&theme=nightowl)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisorozco42&theme=nightowl&layout=compact)
+<a href="https://github.com/Luisorozco42/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Luisorozco42&theme=nightowl" />
+</a>
+<a href="https://github.com/Luisorozco42/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisorozco42&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
+</a>
 
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luisorozco42&theme=nightowl)](https://git.io/streak-stats)
 
 </div>
 
