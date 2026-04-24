@@ -36,7 +36,7 @@ Cabe a destacar que mis otras cuentas de github no son todas para mantener const
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,github,git,kotlin,postgres,sqlite,mysql,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=java,github,git,kotlin,postgres,sqlite,mysql,flutter,dart,idea" />
 </p>
 
 <hr>
