@@ -1,37 +1,36 @@
 <hr>
 <div align="right">
 
-### 👁️ Visitas al perfil  
+### 👁️ Profile views
 
-![Visitas](https://komarev.com/ghpvc/?username=Luisorozco42&label=Profile%20views&color=ff69b4&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=Luisorozco42&label=Profile%20views&color=ff69b4&style=for-the-badge)
 
 </div>
 
-![Banner de área de trabajo](assets/banner.gif)
+![Workspace banner](assets/banner.gif)
   
 <div align="center">
 
-### ¡Bienvenido/a!
+### Welcome!
 
-**👋 Hola — soy Luis Orozco, desarrollador entusiasta.**
+**👋 Hi — I'm Luis Orozco, an enthusiastic developer.**
 
-Aquí es donde yo realizo mis aprendizajes propios para el constante desarrollo de mi persona como profesional. Iniciando a formalizar más mis conocimientos y desplegandolos en mi wakatime.
+This is where I document my self-directed learning as I grow professionally. I am starting to formalize my skills more and publish them on my WakaTime.
 
 </div>
 
 <div align="center">
 
-### ¡Nota a todo que vea esto por primera vez! ⚠
+### Note for first-time visitors! ⚠
 
-**El tiempo que aparece sin estar codificando es porque tuve que enfocarme en otras cosas para poder continuar en mi carrera**
+**The time shown without coding is because I had to focus on other things to continue my career.**
 
-Bueno en los planes que tengo por ahora es explorar nuevos lenguajes y retomar los que he tenido que dejar en pausa así que 
-no duden en contactarme en caso de realizar alguna colaboración 🤝.
+For now, my plans are to explore new languages and revisit those I've had to pause, so feel free to contact me if you want to collaborate 🤝.
 
-Cabe a destacar que mis otras cuentas de github no son todas para mantener constante actualización en repositorios como este, por ejemplo Luisorozco43 será utilizado para subir proyectos más propios y que no tenga que ver con aprendizaje en sí. Por otro lado Luisorozco44 tendrá el fin de ser mi cuenta universitaria (Aunque pronto termino).
+It is worth noting that not all of my other GitHub accounts are used to keep repositories like this updated. For example, Luisorozco43 will be used for more personal projects that are not just learning-related. Meanwhile, Luisorozco44 will serve as my university account (although I will finish soon).
 </div>
 
-## 🛠️ Idiomas y herramientas
+## 🛠️ Languages and tools
 
 <br>
 
@@ -58,6 +57,8 @@ Cabe a destacar que mis otras cuentas de github no son todas para mantener const
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Luisorozco42&theme=nightowl&hide_border=true"
   />
 </a>
+
+<br>
 <a href="https://github.com/Luisorozco42/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Luisorozco42&theme=nightowl&hide_border=true"
   />
@@ -70,6 +71,6 @@ Cabe a destacar que mis otras cuentas de github no son todas para mantener const
 
 <div align="center">
 
-## Otros Perfiles y Métodos de Contactos
+## Other profiles and contact methods
 
 [![GitHub Luisorozco43](https://img.shields.io/badge/GitHub-Luisorozco43-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luisorozco43) [![GitHub Luisorozco44](https://img.shields.io/badge/GitHub-Luisorozco44-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luisorozco44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Orozco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-guillermo-orozco-lazo-ba8416b9) [![Email](https://img.shields.io/badge/Email-lorozcolazo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorozcolazo@gmail.com)
