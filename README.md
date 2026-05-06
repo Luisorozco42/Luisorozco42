@@ -45,10 +45,10 @@ It is worth noting that not all of my other GitHub accounts are used to keep rep
 ## 📊 GitHub Analytics
 
 <a href="https://github.com/Luisorozco42/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-lwqq17xoq-luisorozco42s-projects.vercel.app/api?username=Luisorozco42&theme=nightowl&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats-two-rose-43.vercel.app/api?username=Luisorozco42&theme=nightowl&hide_border=true" />
 </a>
 <a href="https://github.com/Luisorozco42/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-lwqq17xoq-luisorozco42s-projects.vercel.app/api/top-langs?username=Luisorozco42&layout=compact&langs_count=8&card_width=320&theme=nightowl&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats-two-rose-43.vercel.app/api/top-langs?username=Luisorozco42&layout=compact&langs_count=8&card_width=320&theme=nightowl&hide_border=true" />
 </a>
 
 <br>
@@ -60,7 +60,7 @@ It is worth noting that not all of my other GitHub accounts are used to keep rep
 
 <br>
 <a href="https://github.com/Luisorozco42/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-lwqq17xoq-luisorozco42s-projects.vercel.app/api/wakatime?username=Luisorozco42&theme=nightowl&hide_border=true"
+  <img height=200 align="center" src="https://github-readme-stats-two-rose-43.vercel.app/api/wakatime?username=Luisorozco42&theme=nightowl&hide_border=true"
   />
 </a>
 
