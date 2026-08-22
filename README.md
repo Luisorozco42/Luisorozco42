@@ -35,7 +35,7 @@ It is worth noting that not all of my other GitHub accounts are used to keep rep
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,github,git,kotlin,postgres,sqlite,mysql,flutter,dart,idea,pycharm,py,html,css,js,typescript,angular,maven,postman,vscode,swift,spring,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=java,github,git,githubactions,kotlin,postgres,sqlite,mysql,flutter,dart,idea,pycharm,py,html,css,js,typescript,angular,maven,postman,vscode,spring,hibernate,bootstrap,arduino,cs,dotnet,cpp,docker,react,visualstudio,wordpress"/>
 </p>
 
 <hr>
